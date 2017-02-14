@@ -1,3 +1,3 @@
-for i in 1..20
-  puts "#{i} hello"
+for i in 1..23
+  puts "#{i} hello\n"
 end
